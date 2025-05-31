@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(3, 5, 27);
+}
+.serv{
+    margin-top: 40px;
+}
+
+.figma>img{
+  width:50px; 
+
+}
+.figma{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding: 20px 30px;
+    box-shadow: 0 10px 10px yellow;
+}
+.c>img{
+  width:60px;
+}
+.c{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding: 25px 30px;
+    box-shadow: 0 10px 10px rgb(79, 13, 247);
+}
+.html>img{
+   width:60px;
+   border-radius:100%;
+}
+.html{
+     border: 3px solid white;
+    border-radius: 30px;
+    padding: 25px 30px;
+    box-shadow: 0 10px 10px rgb(247, 13, 87);
+}
+
+.css>img{
+  width:70px;  
+}
+.css{
+     border: 3px solid white;
+    border-radius: 30px;
+    padding: 25px 30px;
+    box-shadow: 0 10px 10px rgb(13, 247, 21);
+}
+.name1{
+    font-size: 20px;
+    color: aliceblue;
+    text-shadow:0 1px 10px aliceblue;
+    
+}
+.info1{
+    border-radius:20px;
+    font-size: 20px ;
+    color: rgb(238, 24, 5);
+    padding:5px 100px;
+    background-color:violet ;
+    margin-bottom:20px ;
+}
+.info2{
+    border-radius:20px;
+    font-size: 20px ;
+    color: rgb(238, 24, 5);
+    padding:5px 100px;
+    background-color:violet ;
+    margin-bottom:20px ;
+    
+}
+.info3{
+    border-radius:20px;
+    font-size: 20px ;
+    color: rgb(238, 24, 5);
+    padding:5px 100px;
+    background-color:violet ;
+    margin-bottom:20px ;
+}
+.info4{
+    border-radius:20px;
+    font-size: 20px ;
+    color: rgb(238, 24, 5);
+    padding:5px 100px;
+    background-color:violet ;
+    margin-bottom:20px ;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    
+}
+.box2{
+    display: flex;
+     align-items: center;
+    justify-content:space-evenly;
+    margin-top: 100px;
+    
+
+}
+
+    
+
+.name1{
+    margin:20px ;
+}
